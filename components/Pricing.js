@@ -5,37 +5,30 @@ function Pricing() {
   Container.innerHTML = `
   <div class="text-body d-flex flex-column align-items-center">
           <h2 class="text-center fw-bold">Pricing Packages</h2>
-          <p class="text-center">
-            Connect Landify with your favourite tools that you use daily and
-            keep things on track.
-          </p>
         </div>
         <div class="row mt-5">
           <!-- Pricing Table -->
           <div class="pricing-table position-relative col-lg-4 col-md-6 col-sm-12">
             <div class="inner-box overflow-hidden position-relative">
-              <div class="title">Basic</div>
+              <div class="title">LITE PACK</div>
               <div class="price">
-                $199 <span class="duration">/ monthly</span>
+                $199 <span class="duration">/ site</span>
               </div>
               <div class="table-content">
                 <ul>
                   <li>
-                    <span><i class="bi bi-check2"></i>1 job posting</span>
+                    <span><i class="bi bi-check2"></i>Static Webpage</span>
                   </li>
                   <li>
-                    <span><i class="bi bi-check2"></i>0 featured job</span>
-                  </li>
-                  <li>
-                    <span
-                      ><i class="bi bi-check2"></i>Job displayed for 20
-                      days</span
-                    >
+                    <span><i class="bi bi-check2"></i>Logo and UI</span>
                   </li>
                   <li>
                     <span
-                      ><i class="bi bi-check2"></i>Premium Support 24/7
-                    </span>
+                      ><i class="bi bi-check2"></i>Hosting</span>
+                  </li>
+                  <li>
+                    <span
+                      ><i class="bi bi-check2"></i>Content Writing</span>
                   </li>
                 </ul>
               </div>
@@ -48,28 +41,25 @@ function Pricing() {
           <div class="pricing-table position-relative tagged col-lg-4 col-md-6 col-sm-12">
             <div class="inner-box overflow-hidden position-relative">
               <span class="tag bg-primary-300">Recommended</span>
-              <div class="title">Standard</div>
+              <div class="title">STANDARD PACK</div>
               <div class="price">
-                $499 <span class="duration">/ monthly</span>
+                $479 <span class="duration">/ site</span>
               </div>
               <div class="table-content">
                 <ul>
                   <li>
-                    <span><i class="bi bi-check2"></i>1 job posting</span>
+                    <span><i class="bi bi-check2"></i>All Features from LITE</span>
                   </li>
                   <li>
-                    <span><i class="bi bi-check2"></i>0 featured job</span>
+                    <span><i class="bi bi-check2"></i>Dynamic Webpage</span>
+                  </li>
+                  <li>
+                    <span><i class="bi bi-check2"></i>API Integration</span>
                   </li>
                   <li>
                     <span
-                      ><i class="bi bi-check2"></i>Job displayed for 20
-                      days</span
+                      ><i class="bi bi-check2"></i>Community Setup</span
                     >
-                  </li>
-                  <li>
-                    <span
-                      ><i class="bi bi-check2"></i>Premium Support 24/7
-                    </span>
                   </li>
                 </ul>
               </div>
@@ -81,28 +71,26 @@ function Pricing() {
           <!-- Pricing Table -->
           <div class="pricing-table position-relative col-lg-4 col-md-6 col-sm-12">
             <div class="inner-box overflow-hidden position-relative">
-              <div class="title">Extended</div>
+              <div class="title">PRO PACK</div>
               <div class="price">
-                $799 <span class="duration">/ monthly</span>
+                $999 <span class="duration">/ site</span>
               </div>
               <div class="table-content">
                 <ul>
                   <li>
-                    <span><i class="bi bi-check2"></i>1 job posting</span>
+                    <span><i class="bi bi-check2"></i>All Features from STANDARD</span>
                   </li>
                   <li>
-                    <span><i class="bi bi-check2"></i>0 featured job</span>
+                    <span><i class="bi bi-check2"></i>Payment Integration</span>
                   </li>
                   <li>
                     <span
-                      ><i class="bi bi-check2"></i>Job displayed for 20
-                      days</span
+                      ><i class="bi bi-check2"></i>CMS</span
                     >
                   </li>
                   <li>
                     <span
-                      ><i class="bi bi-check2"></i>Premium Support 24/7
-                    </span>
+                      ><i class="bi bi-check2"></i>Admin Dashboard</span>
                   </li>
                 </ul>
               </div>

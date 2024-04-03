@@ -9,18 +9,14 @@ function Herosection() {
           <div class="text-wrapper col-12 col-lg-7">
             <div class="text-body">
               <h1 class=" fw-bold">
-                The easiest way to manage projects
+                Take your business online with us
               </h1>
-              <p class="mt-3">
-                From the small stuff to the big picture, organizes the work so
-                teams know what to do, why it matters, and how to get it done.
+              <p class="mt-3 fs-3">
+              Website Design, Development and Maintenance.
               </p>
             </div>
             <div class="btns-group mt-3">
-              <a class="button btn-theme-default" href="#">Get Started</a>
-              <a class="button btn-theme-2" href="#"
-                ><i class="bi bi-play-circle me-2"></i> Watch Video</a
-              >
+              <a class="button btn-theme-default" href="#">BOOK A FREE CONSULTATION</a>
             </div>
           </div>
           <div

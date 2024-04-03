@@ -9,24 +9,8 @@ function LogoCloud() {
   <div
           class="row row-cols-2 row-cols-md-4 row-cols-lg-6 gy-5 justify-content-center"
         >
-          <div class="col d-flex justify-content-center ClientLogo">
-            <img src="./Images/Client-logo-01.svg" alt="ClientLogo" srcset="" />
-          </div>
-          <div class="col d-flex justify-content-center ClientLogo">
-            <img src="./Images/Client-logo-02.svg" alt="ClientLogo" srcset="" />
-          </div>
-          <div class="col d-flex justify-content-center ClientLogo">
-            <img src="./Images/Client-logo-03.svg" alt="ClientLogo" srcset="" />
-          </div>
-          <div class="col d-flex justify-content-center ClientLogo">
-            <img src="./Images/Client-logo-04.svg" alt="ClientLogo" srcset="" />
-          </div>
-          <div class="col d-flex justify-content-center ClientLogo">
-            <img src="./Images/Client-logo-05.svg" alt="ClientLogo" srcset="" />
-          </div>
-          <div class="col d-flex justify-content-center ClientLogo">
-            <img src="./Images/Client-logo-06.svg" alt="ClientLogo" srcset="" />
-          </div>
+         
+          
         </div>
   `;
   Container2.innerHTML = `
