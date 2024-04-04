@@ -12,21 +12,10 @@ function Footer() {
             </div>
             <div class="nav-links d-flex flex-column mt-4">
               <ul class="nav justify-content-left row-1">
-                <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#"
-                    >Download Now</a
-                  >
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Licence</a>
-                </li>
+              
               </ul>
               <ul class="nav justify-content-left row-2">
-                <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#Metric"
-                    >About</a
-                  >
-                </li>
+               
                 <li class="nav-item">
                   <a class="nav-link" href="#Features">Features</a>
                 </li>
@@ -34,37 +23,15 @@ function Footer() {
                   <a class="nav-link" href="#Pricing">Pricing</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">News</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Contacts</a>
+                  <a class="nav-link" href="#FAQ">Contacts</a>
                 </li>
               </ul>
             </div>
             <div class="copyrights mt-4">
-              © 2021 <a class='text-decoration-underline' href="https://github.com/SuccessfullSites">SuccessfullSite</a> Theme. All rights reserved
+              © 2024 <a class='text-decoration-underline' href="https://github.com/Fireweb-Technologies">Fireweb Technologies</a>. All rights reserved
             </div>
           </div>
-          <div class="col-12 col-md-2 badges">
-            <p>Get the App</p>
-            <div class="badges-items me-3 d-block">
-              <a class="badge-item text-decoration-none" href="#1">
-                <img
-                  class="item"
-                  src="./Images/Store badge.svg"
-                  alt=""
-                  srcset=""
-                />
-              </a>
-              <a class="badge-item text-decoration-none" href="#2">
-                <img
-                  class="item mt-md-3"
-                  src="./Images/Store badge-1.svg"
-                  alt=""
-                  srcset=""
-                />
-              </a>
-            </div>
+          
           </div>
         </div>
   `;

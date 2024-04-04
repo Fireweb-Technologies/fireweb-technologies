@@ -33,7 +33,7 @@ function Pricing() {
                 </ul>
               </div>
               <div class="table-footer">
-                <a href="#" class="button btn-theme-1">View Profile</a>
+                <a href="#FAQ" class="button btn-theme-1">Get Qutotation</a>
               </div>
             </div>
           </div>
@@ -64,7 +64,7 @@ function Pricing() {
                 </ul>
               </div>
               <div class="table-footer">
-                <a href="#" class="button btn-theme-1">View Profile</a>
+              <a href="#FAQ" class="button btn-theme-1">Get Qutotation</a>
               </div>
             </div>
           </div>
@@ -95,7 +95,7 @@ function Pricing() {
                 </ul>
               </div>
               <div class="table-footer">
-                <a href="#" class="button btn-theme-1">View Profile</a>
+              <a href="#FAQ" class="button btn-theme-1">Get Qutotation</a>
               </div>
             </div>
           </div>

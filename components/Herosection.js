@@ -16,7 +16,7 @@ function Herosection() {
               </p>
             </div>
             <div class="btns-group mt-3">
-              <a class="button btn-theme-default" href="#">BOOK A FREE CONSULTATION</a>
+              <a class="button btn-theme-default" href="#FAQ">BOOK A FREE CONSULTATION</a>
             </div>
           </div>
           <div
