@@ -22,7 +22,7 @@ function Herosection() {
           <div
             class="mockup-img col-12 col-lg-5 overflow-hidden d-flex justify-content-center"
           >
-            <img class="" src="./Images/hero.png  " alt="" id="" />
+            <img class="hero" src="./Images/hero.png  " alt="" id="" />
           </div>
         </div>
         

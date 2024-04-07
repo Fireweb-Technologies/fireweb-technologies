@@ -3,11 +3,11 @@ function Navbar() {
   const Container = document.createElement("div");
   Container.classList.add("container");
   Container.innerHTML = `
-  <div class="nav-left d-flex" id="navbarNav">
+  <div class="nav-left  d-flex align-items-center" id="navbarNav">
   <a class="navbar-brand me-5" href="#">
     <img
       class="BrandLogo"
-      src="./Images/Logo-BgWhite.svg"
+      src="./Images/logo.png"
       alt=""
       srcset=""
     />

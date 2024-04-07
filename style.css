@@ -325,7 +325,7 @@ Navbar Section
 }
 .BrandLogo,
 .badge-item .item {
-  height: 35px;
+  height: 45px;
 }
 /*** 
 
@@ -344,9 +344,7 @@ Hero Section
   #Herosection .text-wrapper {
     padding-top: 64px;
   }
-  .mockup-img img {
-    max-height: 640px;
-  }
+  
 }
 @media (min-width: 992px) {
   #Herosection .text-wrapper {
@@ -585,4 +583,48 @@ ArrowToTop Section
   cursor: pointer;
   transition: all 0.5s ease;
   z-index: 20;
+}
+
+.img-fluid{
+  width: 40%;
+  height: auto;
+}
+
+.contact{
+  width: 50%;
+}
+.form-control{
+  border: #4c1d95 solid 1px;
+  border-radius: 5px;
+  outline: none;
+}
+
+.submit{
+  background-color: #4c1d95;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.submit:hover{
+  background-color: #270a5a;
+}
+
+
+@media screen and (max-width: 768px){
+  .contact{
+    width: 100%;
+  }
+
+  .img-fluid{
+    display: none;
+
+  }
+
+  .mockup-img img{
+    display: none;
+  }
+  
 }

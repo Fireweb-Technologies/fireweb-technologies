@@ -7,7 +7,8 @@ function FAQ() {
           <h2 class='title fw-bold'>Contact Us</h2>
           <p>Feel free to reach out to us!</p>
       </div>
-      <form id="contactForm" class="lg:w-50 sm:w-100 ">
+      <div class='d-flex w-100 justify-content-between align-items-center flex-row'>
+      <form id="contactForm" class="contact ">
       <div class="mb-3">
       <label for="email" class="form-label">Email</label>
       <input type="email" class="form-control" id="email" name="email" required>
@@ -21,8 +22,10 @@ function FAQ() {
               <label for="message" class="form-label">Message</label>
               <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
           </div>
-          <button type="submit" class="btn btn-primary">Submit</button>
+          <button type="submit" class=" submit px-4 py-3">Send Message</button>
       </form>
+      <img src="./Images/contact.jpg" alt="Contact" class="img-fluid">
+      </div>
   `;
   FAQ.appendChild(Container);
 
