@@ -42,7 +42,7 @@ function Navbar() {
 >
   <div class="offcanvas-header">
     <h5 class="offcanvas-title" id="offcanvasRightLabel">
-      Offcanvas right
+      
     </h5>
     <button
       type="button"
@@ -60,30 +60,10 @@ function Navbar() {
         <a class="nav-link" href="#Pricing">Pricing</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Careers">Careers</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#FAQ">Help</a>
+        <a class="nav-link" href="#FAQ">Contact Us</a>
       </li>
     </ul>
-    <div class="badges-items h-100 mt-3 d-flex flex-column">
-      <a class="badge-item text-decoration-none" href="#1">
-        <img
-          class="item"
-          src="./Images/Store badge.svg"
-          alt=""
-          srcset=""
-        />
-      </a>
-      <a class="badge-item text-decoration-none" href="#2">
-        <img
-          class="item"
-          src="./Images/Store badge-1.svg"
-          alt=""
-          srcset=""
-        />
-      </a>
-    </div>
+    
   </div>
 </div>
     `;
