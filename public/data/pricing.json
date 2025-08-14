@@ -1,0 +1,180 @@
+{
+  "webDevelopment": {
+    "title": "Web Development Services",
+    "description": "Professional website development solutions tailored to your business needs",
+    "packages": [
+      {
+        "name": "Starter Website",
+        "description": "Perfect for small businesses and personal portfolios",
+        "features": [
+          "5-10 Pages",
+          "Responsive Design",
+          "Basic SEO Setup",
+          "Contact Form",
+          "1 Month Support",
+          "Mobile Optimization"
+        ],
+        "pricing": {
+          "USD": {
+            "amount": 99,
+            "currency": "$",
+            "region": "International"
+          },
+          "INR": {
+            "amount": 8000,
+            "currency": "₹",
+            "region": "India"
+          }
+        },
+        "popular": false
+      },
+      {
+        "name": "Business Website",
+        "description": "Comprehensive solution for growing businesses",
+        "features": [
+          "10-20 Pages",
+          "Custom Design",
+          "Advanced SEO",
+          "Content Management System",
+          "E-commerce Ready",
+          "3 Months Support",
+          "Analytics Integration",
+          "Social Media Integration"
+        ],
+        "pricing": {
+          "USD": {
+            "amount": 199,
+            "currency": "$",
+            "region": "International"
+          },
+          "INR": {
+            "amount": 15000,
+            "currency": "₹",
+            "region": "India"
+          }
+        },
+        "popular": true
+      },
+      {
+        "name": "Enterprise Solution",
+        "description": "Advanced solutions for large businesses and corporations",
+        "features": [
+          "Unlimited Pages",
+          "Custom Development",
+          "Advanced E-commerce",
+          "Multi-language Support",
+          "Third-party Integrations",
+          "6 Months Support",
+          "Performance Optimization",
+          "Security Features",
+          "Custom Dashboard"
+        ],
+        "pricing": {
+          "USD": {
+            "amount": 449,
+            "currency": "$",
+            "region": "International"
+          },
+          "INR": {
+            "amount": 35000,
+            "currency": "₹",
+            "region": "India"
+          }
+        },
+        "popular": false
+      }
+    ]
+  },
+  "digitalMarketing": {
+    "title": "Digital Marketing Services",
+    "description": "Comprehensive digital marketing solutions to grow your online presence",
+    "packages": [
+      {
+        "name": "Starter Marketing",
+        "description": "Essential digital marketing for small businesses",
+        "features": [
+          "Social Media Management (2 platforms)",
+          "Basic SEO (10 keywords)",
+          "Monthly Analytics Report",
+          "Content Creation (8 posts/month)",
+          "Google My Business Setup",
+          "Email Support"
+        ],
+        "pricing": {
+          "USD": {
+            "amount": 12,
+            "currency": "$",
+            "period": "per month",
+            "region": "International"
+          },
+          "INR": {
+            "amount": 1000,
+            "currency": "₹",
+            "period": "per month",
+            "region": "India"
+          }
+        },
+        "popular": false
+      },
+      {
+        "name": "Growth Marketing",
+        "description": "Comprehensive marketing for expanding businesses",
+        "features": [
+          "Social Media Management (4 platforms)",
+          "Advanced SEO (25 keywords)",
+          "PPC Campaign Management",
+          "Content Creation (16 posts/month)",
+          "Email Marketing Campaigns",
+          "Bi-weekly Strategy Calls",
+          "Conversion Optimization",
+          "Competitor Analysis"
+        ],
+        "pricing": {
+          "USD": {
+            "amount": 59,
+            "currency": "$",
+            "period": "per month",
+            "region": "International"
+          },
+          "INR": {
+            "amount": 5000,
+            "currency": "₹",
+            "period": "per month",
+            "region": "India"
+          }
+        },
+        "popular": true
+      },
+      {
+        "name": "Enterprise Marketing",
+        "description": "Full-scale marketing solutions for large organizations",
+        "features": [
+          "Multi-platform Management",
+          "Enterprise SEO (50+ keywords)",
+          "Advanced PPC & Display Ads",
+          "Content Creation (32+ posts/month)",
+          "Marketing Automation",
+          "Weekly Strategy Sessions",
+          "A/B Testing & Optimization",
+          "Custom Analytics Dashboard",
+          "Dedicated Account Manager"
+        ],
+        "pricing": {
+          "USD": {
+            "amount": 119,
+            "currency": "$",
+            "period": "per month",
+            "region": "International"
+          },
+          "INR": {
+            "amount": 10000,
+            "currency": "₹",
+            "period": "per month",
+            "region": "India"
+          }
+        },
+        "popular": false
+      }
+    ]
+  }
+}

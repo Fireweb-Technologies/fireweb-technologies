@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Ravindrababu Ravula",
+    "company": "Raudra Technologies",
+    "position": "CEO",
+    "image": "/testimonials/sarah.jpg",
+    "rating": 5,
+    "text": "Fireweb Technologies transformed our online presence completely. Their team delivered a stunning website that increased our conversion rate by 150%. The attention to detail and professional approach was outstanding.",
+    "project": "Portfolio Website"
+  },
+  {
+    "id": 2,
+    "name": "Samir Dey",
+    "company": "Flexwave",
+    "position": "CEO",
+    "image": "/testimonials/michael.jpg",
+    "rating": 5,
+    "text": "Choosing Fireweb Technologies for our website project was one of the best decisions we made. Their dedication to delivering high-quality work and their ability to understand our unique requirements set them apart. Couldn't be happier with the final product!",
+    "project": "Portfolio Website"
+  },
+  {
+    "id": 3,
+    "name": "Surajit Samadder",
+    "company": "Naturemind",
+    "position": "Founder",
+    "image": "/testimonials/emily.jpg",
+    "rating": 5,
+    "text": "Working with Fireweb Technologies was a game-changer for our nursery. They created a beautiful, user-friendly e-commerce platform that our customers love.",
+    "project": "E-commerce Website"
+  },
+  {
+    "id": 4,
+    "name": "K.N Rao",
+    "company": "Cnax",
+    "position": "Founder",
+    "image": "/testimonials/emily.jpg",
+    "rating": 5,
+    "text": "Fireweb Technologies has been instrumental in our digital transformation. Their expertise in web development and digital marketing has significantly boosted our online visibility and sales.",
+    "project": "E-commerce Website"
+  }
+]
