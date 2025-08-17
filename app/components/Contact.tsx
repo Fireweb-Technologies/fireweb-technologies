@@ -32,21 +32,32 @@ const Contact = () => {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setIsSubmitting(true);
+    setSubmitStatus("idle");
 
-    // Simulate form submission (replace with actual API call)
     try {
-      // Replace this with your actual form submission logic
-      await new Promise((resolve) => setTimeout(resolve, 2000));
-      setSubmitStatus("success");
-      setFormData({
-        name: "",
-        email: "",
-        company: "",
-        phone: "",
-        service: "",
-        message: "",
+      const response = await fetch("/api/contact", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(formData),
       });
-    } catch {
+
+      if (response.ok) {
+        setSubmitStatus("success");
+        setFormData({
+          name: "",
+          email: "",
+          company: "",
+          phone: "",
+          service: "",
+          message: "",
+        });
+      } else {
+        setSubmitStatus("error");
+      }
+    } catch (error) {
+      console.error("Error submitting form:", error);
       setSubmitStatus("error");
     } finally {
       setIsSubmitting(false);

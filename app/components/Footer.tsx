@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const Footer = () => {
   const currentYear = new Date().getFullYear();
 
@@ -36,10 +38,14 @@ const Footer = () => {
             {/* Company Info */}
             <div className="lg:col-span-1">
               <div className="flex items-center mb-6">
-                <div className="w-10 h-10 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-xl">F</span>
-                </div>
-                <span className="ml-2 text-xl font-bold">
+                <Image
+                  src="/fireweb-logo1.svg"
+                  alt="Fireweb Technologies Logo"
+                  width={120}
+                  height={40}
+                  className="h-20 w-auto"
+                />
+                <span className="ml-3 text-xl font-bold">
                   Fireweb Technologies
                 </span>
               </div>
